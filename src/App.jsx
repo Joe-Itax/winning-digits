@@ -1,9 +1,9 @@
-import './App.css'
+import "./App.css";
 
 export default function App() {
   return (
     <main>
-      React ⚛️ + Vite ⚡ + Replit
+      <h1 class="text-3xl font-bold underline">Winning Digits</h1>
     </main>
-  )
+  );
 }
